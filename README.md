@@ -45,10 +45,11 @@ _**Heaven’s Light is Our Guide**_
   
 ## INDEX:
 
-| Assignment No. | Title | Link | 
-| :---: | :---: | :---: | :---: | 
-| 01 | Assigtnment No_01 |[Assigtnment No_01](https://github.com/NahedECE/ECE1104_2310038/blob/main/Lab/Lab_01.md) |
-| 02 | Assignment No_02 |[Assignment No_02](https://github.com/NahedECE/ECE1104_2310038/blob/main/Lab/Lab_02.md) | 
-
+| Assignment No. | Title | Link | Remarks |
+| :---: | :---: | :---: | :---: |
+| 01 | Assignment_01  |[Assignment_01](https://github.com/NahedECE/ECE-1103_2310038/blob/main/Assignment/Assignment_1.md)|  |
+| 02 | Assignment_02 | [Assignment_02](https://github.com/NahedECE/ECE-1103_2310038/blob/main/Assignment/Assignment_02.md) |  |
+| 03 | Assignment_03 | [Assignment_03](https://github.com/NahedECE/ECE-1103_2310038/blob/main/Assignment/Assignment_03.md) |  |
+| 04 | Assignment_04 | [Assignment_04](https://github.com/NahedECE/ECE-1103_2310038/blob/main/Assignment/Assignment_04.md) |  |
 </div>
 
