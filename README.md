@@ -45,8 +45,8 @@ _**Heaven’s Light is Our Guide**_
   
 ## INDEX:
 
-| Assignment No. | Title | Link | ||
-| :---: | :---: | :---: | :---: | ||
+| Assignment No. | Title | Link | 
+| :---: | :---: | :---: | :---: | 
 | 01 | Assigtnment No_01 |[Assigtnment No_01](https://github.com/NahedECE/ECE1104_2310038/blob/main/Lab/Lab_01.md) |
 | 02 | Assignment No_02 |[Assignment No_02](https://github.com/NahedECE/ECE1104_2310038/blob/main/Lab/Lab_02.md) | 
 
