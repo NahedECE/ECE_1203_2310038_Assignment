@@ -58,9 +58,9 @@ int main()
 ```
 After running several times, C can only access public members from B and A. B can only access public members from A. A can not access B or C members.
 ## **Output :** 
-<img width="1238" height="765" alt="image" src="https://github.com/user-attachments/assets/19ef57ca-02d4-40c9-bd51-52b0106d75c4" />
-<img width="1226" height="834" alt="image" src="https://github.com/user-attachments/assets/db246ce8-fdc1-493e-889c-10ef72e39126" />
 <img width="1226" height="834" alt="image" src="https://github.com/user-attachments/assets/11e31269-2d87-4dce-ad73-18678e642875" />
+<img width="1238" height="765" alt="image" src="https://github.com/user-attachments/assets/0691c28b-0694-4522-a05a-a0342154bc46" />
+
 
 
 
